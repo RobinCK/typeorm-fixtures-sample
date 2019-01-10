@@ -1,2 +1,2 @@
-# typeorm-fixtures-sample
+# TypeORM fixtures sample
 Sample project for typeorm-fixtures-cli
