@@ -6,7 +6,7 @@ Sample project for typeorm-fixtures-cli
  - NodeJS
  - Docker
  
-## up PostgreSQL on docker 
+## Up PostgreSQL on docker 
  
 ```bash
 docker-compose -f docker-compose-postgres.yml up --build
