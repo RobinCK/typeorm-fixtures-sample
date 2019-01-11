@@ -1,0 +1,16 @@
+# Use yarn.lock instead
+package-lock.json
+node_modules
+dist
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+lib-cov
+
+
+.idea/*
+.vscode/*
+*.iml
