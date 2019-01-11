@@ -1,0 +1,11 @@
+entity: Group
+parameters:
+  names:
+    admin: Admin
+items:
+  group1:
+    name: '<{names.admin}>'
+    owner: '@user1'
+    members:
+      - '@user2'
+      - '@user3'

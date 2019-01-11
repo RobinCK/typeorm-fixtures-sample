@@ -1,0 +1,19 @@
+entity: Profile
+parameters: {}
+items:
+  profile1:
+    aboutMe: <%= ['about string', 'about string 2', 'about string 3'].join(", ") %>
+    skype: skype-account>
+    language: english
+  profile2:
+    aboutMe: <%= ['about string', 'about string 2', 'about string 3'].join(", ") %>
+    skype: skype-account
+    language: english
+  profile3:
+    aboutMe: <%= ['about string', 'about string 2', 'about string 3'].join(", ") %>
+    skype: skype-account
+    language: english
+  profile4:
+    aboutMe: <%= ['about string', 'about string 2', 'about string 3'].join(", ") %>
+    skype: skype-account
+    language: english
