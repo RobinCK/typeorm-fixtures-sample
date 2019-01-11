@@ -2,10 +2,9 @@
 Sample project for [typeorm-fixtures-cli](https://github.com/RobinCK/typeorm-fixtures)
 
 ## Requirements 
- - PostgreSQL
+ - PostgreSQL or Docker
  - NodeJS
- - Docker
- 
+
 ## Up PostgreSQL on docker 
  
 ```bash
