@@ -1,0 +1,30 @@
+{
+  "name": "typeorm-fixtures-sample",
+  "version": "1.0.0",
+  "description": "Sample project for typeorm-fixtures-cli",
+  "scripts": {
+    "build": "npm run clean && tsc -p tsconfig.json",
+    "clean": "trash dist",
+    "fixtures": "fixtures ./fixtures --config ormconfig.yml --sync",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobinCK/typeorm-fixtures-sample.git"
+  },
+  "author": "igor Ognichenko <ognichenko.igor@gmail.com>",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/RobinCK/typeorm-fixtures-sample/issues"
+  },
+  "homepage": "https://github.com/RobinCK/typeorm-fixtures-sample#readme",
+  "dependencies": {
+    "pg": "^7.7.1",
+    "typeorm": "^0.2.11",
+    "typeorm-fixtures-cli": "^0.3.6"
+  },
+  "devDependencies": {
+    "trash-cli": "^1.4.0",
+    "typescript": "^3.2.2"
+  }
+}
