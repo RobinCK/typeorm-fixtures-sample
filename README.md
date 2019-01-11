@@ -1,5 +1,5 @@
 # TypeORM fixtures sample
-Sample project for typeorm-fixtures-cli
+Sample project for [typeorm-fixtures-cli](https://github.com/RobinCK/typeorm-fixtures)
 
 ## Requirements 
  - PostgreSQL
