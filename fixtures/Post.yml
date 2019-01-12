@@ -5,15 +5,19 @@ items:
     title: '{{name.title}}'
     description: '{{lorem.paragraphs}}'
     user: '@user($current)'
+    category: '@category($current)'
   post2:
     title: '{{name.title}}'
     description: '{{lorem.paragraphs}}'
     user: '@user($current)'
+    category: '@category($current)'
   post3:
     title: '{{name.title}}'
     description: '{{lorem.paragraphs}}'
     user: '@user{3..4}'
+    category: '@category($current)'
   post4:
     title: '{{name.title}}'
     description: '{{lorem.paragraphs}}'
     user: '@user($current)'
+    category: '@category($current)'

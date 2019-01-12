@@ -1,0 +1,19 @@
+entity: Category
+items:
+  category1:
+    name: '{{random.word}}'
+  category2:
+    name: '{{random.word}}'
+    parent: '@category1'
+  category3:
+    name: '{{random.word}}'
+    parent: '@category2'
+  category4:
+    name: '{{random.word}}'
+  category5:
+    name: '{{random.word}}'
+  category6:
+    name: '{{random.word}}'
+    children:
+      - '@category4'
+      - '@category5'
