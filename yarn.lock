@@ -1448,9 +1448,9 @@ typeorm@^0.2.12:
     yargonaut "^1.1.2"
     yargs "^12.0.5"
 
-typescript@^3.2.2:
-  version "3.2.2"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.2.2.tgz#fe8101c46aa123f8353523ebdcf5730c2ae493e5"
+typescript@^3.5.3:
+  version "3.5.3"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.5.3.tgz#c830f657f93f1ea846819e929092f5fe5983e977"
 
 unzip-response@^1.0.2:
   version "1.0.2"
