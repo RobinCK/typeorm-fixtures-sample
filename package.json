@@ -24,7 +24,7 @@
     "typeorm-fixtures-cli": "^1.1.0"
   },
   "devDependencies": {
-    "trash-cli": "^1.4.0",
+    "trash-cli": "^3.0.0",
     "typescript": "^3.2.2"
   }
 }
