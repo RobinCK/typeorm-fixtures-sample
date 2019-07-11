@@ -20,7 +20,7 @@
   "homepage": "https://github.com/RobinCK/typeorm-fixtures-sample#readme",
   "dependencies": {
     "pg": "^7.8.0",
-    "typeorm": "^0.2.12",
+    "typeorm": "^0.2.18",
     "typeorm-fixtures-cli": "^1.1.0"
   },
   "devDependencies": {
