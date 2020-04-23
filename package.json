@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/RobinCK/typeorm-fixtures-sample#readme",
   "dependencies": {
+    "@types/node": "13.13.2",
     "pg": "^7.8.0",
     "typeorm": "^0.2.12",
     "typeorm-fixtures-cli": "^1.1.0"
